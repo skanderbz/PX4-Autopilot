@@ -94,6 +94,8 @@ if(gz-transport_FOUND)
 		rover
 		walls
 		temp
+		task_one
+		thermaltest
 	)
 
 	# find corresponding airframes
