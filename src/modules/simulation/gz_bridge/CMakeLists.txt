@@ -93,6 +93,7 @@ if(gz-transport_FOUND)
 		aruco
 		rover
 		walls
+		task_one
 	)
 
 	# find corresponding airframes
